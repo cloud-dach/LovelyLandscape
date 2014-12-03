@@ -3,7 +3,7 @@ applications:
 - name: LovelyLandscape-Node.js
   framework: node
   runtime: node08
-  memory: 64MB
+  memory: 65MB
   instances: 1
   command: node app.js    #The command to use to start the application
   host: LovelyLandscape-${random-word}
