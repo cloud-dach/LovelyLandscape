@@ -1,0 +1,20 @@
+{
+  "Name": "LovelyLandscape-Node.js on dev / Rene.Meyer@de.ibm.com",
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "Rene.Meyer@de.ibm.com",
+      "OrgId": "4f11b947-5e3d-4e2a-afa4-ff8057c94ab4",
+      "Space": "dev",
+      "SpaceId": "ddd29996-cbce-4324-b4a6-d1b73d7e9a80"
+    },
+    "Name": "LovelyLandscape-Node.js",
+    "AppId": "3d723c29-2aa9-4eee-8649-9a835067824e",
+    "Timeout": 60
+  },
+  "Url": "http://LovelyLandscape-70523da1-36ec-408c-a24e-c018e34a6fa7.mybluemix.net",
+  "ManageUrl": "https://console.ng.bluemix.net#/resources/appGuid=3d723c29-2aa9-4eee-8649-9a835067824e&orgGuid=4f11b947-5e3d-4e2a-afa4-ff8057c94ab4&spaceGuid=ddd29996-cbce-4324-b4a6-d1b73d7e9a80",
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}

@@ -1,0 +1,11 @@
+---
+applications:
+- command: node app.js
+  domain: mybluemix.net
+  framework: node
+  host: LovelyLandscape-70523da1-36ec-408c-a24e-c018e34a6fa7
+  instances: 1
+  memory: 64MB
+  name: LovelyLandscape-Node.js
+  path: .
+  runtime: node08
