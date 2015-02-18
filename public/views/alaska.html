@@ -70,7 +70,7 @@
   <h2><em>Alaska</em><h2> </div>
   <br/>
   
-		<img src="/static/images/sydney.jpg" class="sale-photo">
+		<img src="/static/images/alaska.jpg" class="sale-photo">
 	
 		<h3>
 			About this landscape:
